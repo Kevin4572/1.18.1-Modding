@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:ruby_block",
+    "bestmod:sapphire_block",
+    "bestmod:amethyst_block",
+    "bestmod:ruby_ore",
+    "bestmod:nether_ruby_ore",
+    "bestmod:sapphire_ore",
+    "bestmod:amethyst_ore",
+    "bestmod:deepslate_ruby_ore",
+    "bestmod:deepslate_sapphire_ore",
+    "bestmod:deepslate_amethyst_ore"
+  ]
+}

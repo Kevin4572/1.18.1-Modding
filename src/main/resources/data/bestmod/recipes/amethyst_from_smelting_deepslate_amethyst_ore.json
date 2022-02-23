@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bestmod:deepslate_amethyst_ore"
+  },
+  "result": "bestmod:amethyst",
+  "experience": 2.0,
+  "cookingtime": 200
+}

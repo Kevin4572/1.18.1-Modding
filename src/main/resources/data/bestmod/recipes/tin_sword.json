@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "bestmod:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "bestmod:tin_sword"
+  }
+}

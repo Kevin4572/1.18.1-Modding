@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bestmod:aluminum_ore"
+  },
+  "result": "bestmod:aluminum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

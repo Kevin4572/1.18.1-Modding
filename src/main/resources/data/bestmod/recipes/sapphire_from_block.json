@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bestmod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "bestmod:sapphire",
+    "count": 9
+  }
+}

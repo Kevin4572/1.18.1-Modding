@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bestmod:nether_ruby_ore"
+  },
+  "result": "bestmod:ruby",
+  "experience": 1.5,
+  "cookingtime": 200
+}

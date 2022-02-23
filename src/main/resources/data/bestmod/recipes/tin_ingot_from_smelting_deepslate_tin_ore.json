@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bestmod:deepslate_tin_ore"
+  },
+  "result": "bestmod:tin_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:aluminum_block",
+    "bestmod:tin_block",
+    "bestmod:ruby_block",
+    "bestmod:sapphire_block",
+    "bestmod:amethyst_block",
+    "bestmod:aluminum_ore",
+    "bestmod:tin_ore",
+    "bestmod:ruby_ore",
+    "bestmod:nether_ruby_ore",
+    "bestmod:sapphire_ore",
+    "bestmod:amethyst_ore",
+    "bestmod:deepslate_aluminum_ore",
+    "bestmod:deepslate_tin_ore",
+    "bestmod:deepslate_ruby_ore",
+    "bestmod:deepslate_sapphire_ore",
+    "bestmod:deepslate_amethyst_ore",
+    "bestmod:raw_aluminum_block",
+    "bestmod:raw_tin_block"
+  ]
+}

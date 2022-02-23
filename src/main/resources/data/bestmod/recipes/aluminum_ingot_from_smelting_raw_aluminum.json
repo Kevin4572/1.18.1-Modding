@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bestmod:raw_aluminum"
+  },
+  "result": "bestmod:aluminum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

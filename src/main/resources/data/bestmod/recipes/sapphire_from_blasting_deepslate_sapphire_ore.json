@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "bestmod:deepslate_sapphire_ore"
+  },
+  "result": "bestmod:sapphire",
+  "experience": 1.5,
+  "cookingtime": 100
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "bestmod:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "bestmod:tin_chestplate"
+  }
+}

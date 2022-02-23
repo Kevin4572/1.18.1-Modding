@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "bestmod:raw_tin"
+  },
+  "result": "bestmod:tin_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

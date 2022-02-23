@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bestmod:amethyst_block"
+    }
+  ],
+  "result": {
+    "item": "bestmod:amethyst",
+    "count": 9
+  }
+}

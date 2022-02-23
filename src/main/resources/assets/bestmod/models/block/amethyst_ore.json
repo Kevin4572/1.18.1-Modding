@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bestmod:block/amethyst_ore"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:aluminum_block",
+    "bestmod:tin_block",
+    "bestmod:aluminum_ore",
+    "bestmod:tin_ore",
+    "bestmod:deepslate_aluminum_ore",
+    "bestmod:deepslate_tin_ore",
+    "bestmod:raw_aluminum_block",
+    "bestmod:raw_tin_block"
+  ]
+}

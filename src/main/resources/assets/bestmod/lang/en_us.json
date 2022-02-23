@@ -1,0 +1,100 @@
+{
+  "item.bestmod.aluminum_ingot": "Aluminum Ingot",
+  "item.bestmod.tin_ingot": "Tin Ingot",
+  "item.bestmod.ruby": "Ruby",
+  "item.bestmod.sapphire": "Sapphire",
+  "item.bestmod.amethyst": "Amethyst",
+
+  "item.bestmod.raw_aluminum": "Raw Aluminum",
+  "item.bestmod.raw_tin": "Raw Tin",
+
+  "block.bestmod.aluminum_block": "Block of Aluminum",
+  "block.bestmod.tin_block": "Block of Tin",
+  "block.bestmod.ruby_block": "Block of Ruby",
+  "block.bestmod.sapphire_block": "Block of Sapphire",
+  "block.bestmod.amethyst_block": "Block of Amethyst",
+
+  "block.bestmod.aluminum_ore": "Aluminum Ore",
+  "block.bestmod.tin_ore": "Tin Ore",
+  "block.bestmod.ruby_ore": "Ruby Ore",
+  "block.bestmod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.bestmod.sapphire_ore": "Sapphire Ore",
+  "block.bestmod.amethyst_ore": "Amethyst Ore",
+
+  "block.bestmod.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+  "block.bestmod.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.bestmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.bestmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.bestmod.deepslate_amethyst_ore": "Deepslate Amethyst Ore",
+
+  "block.bestmod.raw_aluminum_block": "Raw Aluminum Block",
+  "block.bestmod.raw_tin_block": "Raw Tin Block",
+
+  "item.bestmod.copper_sword": "Copper Sword",
+  "item.bestmod.copper_pickaxe": "Copper Pickaxe",
+  "item.bestmod.copper_shovel": "Copper Shovel",
+  "item.bestmod.copper_axe": "Copper Axe",
+  "item.bestmod.copper_hoe": "Copper Hoe",
+
+  "item.bestmod.aluminum_sword": "Aluminum Sword",
+  "item.bestmod.aluminum_pickaxe": "Aluminum Pickaxe",
+  "item.bestmod.aluminum_shovel": "Aluminum Shovel",
+  "item.bestmod.aluminum_axe": "Aluminum Axe",
+  "item.bestmod.aluminum_hoe": "Aluminum Hoe",
+
+  "item.bestmod.tin_sword": "Tin Sword",
+  "item.bestmod.tin_pickaxe": "Tin Pickaxe",
+  "item.bestmod.tin_shovel": "Tin Shovel",
+  "item.bestmod.tin_axe": "Tin Axe",
+  "item.bestmod.tin_hoe": "Tin Hoe",
+
+  "item.bestmod.ruby_sword": "Ruby Sword",
+  "item.bestmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.bestmod.ruby_shovel": "Ruby Shovel",
+  "item.bestmod.ruby_axe": "Ruby Axe",
+  "item.bestmod.ruby_hoe": "Ruby Hoe",
+
+  "item.bestmod.sapphire_sword": "Sapphire Sword",
+  "item.bestmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.bestmod.sapphire_shovel": "Sapphire Shovel",
+  "item.bestmod.sapphire_axe": "Sapphire Axe",
+  "item.bestmod.sapphire_hoe": "Sapphire Hoe",
+
+  "item.bestmod.amethyst_sword": "Amethyst Sword",
+  "item.bestmod.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.bestmod.amethyst_shovel": "Amethyst Shovel",
+  "item.bestmod.amethyst_axe": "Amethyst Axe",
+  "item.bestmod.amethyst_hoe": "Amethyst Hoe",
+
+  "item.bestmod.copper_helmet": "Copper Helmet",
+  "item.bestmod.copper_chestplate": "Copper Chestplate",
+  "item.bestmod.copper_leggings": "Copper Leggings",
+  "item.bestmod.copper_boots": "Copper Boots",
+
+  "item.bestmod.aluminum_helmet": "Aluminum Helmet",
+  "item.bestmod.aluminum_chestplate": "Aluminum Chestplate",
+  "item.bestmod.aluminum_leggings": "Aluminum Leggings",
+  "item.bestmod.aluminum_boots": "Aluminum Boots",
+
+  "item.bestmod.tin_helmet": "Tin Helmet",
+  "item.bestmod.tin_chestplate": "Tin Chestplate",
+  "item.bestmod.tin_leggings": "Tin Leggings",
+  "item.bestmod.tin_boots": "Tin Boots",
+
+  "item.bestmod.ruby_helmet": "Ruby Helmet",
+  "item.bestmod.ruby_chestplate": "Ruby Chestplate",
+  "item.bestmod.ruby_leggings": "Ruby Leggings",
+  "item.bestmod.ruby_boots": "Ruby Boots",
+
+  "item.bestmod.sapphire_helmet": "Sapphire Helmet",
+  "item.bestmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.bestmod.sapphire_leggings": "Sapphire Leggings",
+  "item.bestmod.sapphire_boots": "Sapphire Boots",
+
+  "item.bestmod.amethyst_helmet": "Amethyst Helmet",
+  "item.bestmod.amethyst_chestplate": "Amethyst Chestplate",
+  "item.bestmod.amethyst_leggings": "Amethyst Leggings",
+  "item.bestmod.amethyst_boots": "Amethyst Boots",
+
+  "itemGroup.besttab": "Best Mod"
+}
