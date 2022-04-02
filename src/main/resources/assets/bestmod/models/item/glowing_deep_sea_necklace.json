@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bestmod:item/necklace_base",
+    "layer1": "bestmod:item/necklace_crystal"
+  }
+}

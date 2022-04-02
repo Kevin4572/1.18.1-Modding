@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ores/aluminum",
+    "#forge:ores/tin",
+    "#forge:ores/ruby",
+    "#forge:ores/sapphire",
+    "#forge:ores/amethyst"
+  ]
+}

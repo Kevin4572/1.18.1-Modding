@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:deepslate_aluminum_ore",
+    "bestmod:deepslate_tin_ore",
+    "bestmod:deepslate_ruby_ore",
+    "bestmod:deepslate_sapphire_ore",
+    "bestmod:deepslate_amethyst_ore"
+  ]
+}

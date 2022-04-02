@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "bestmod:deep_sea_necklace"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "bestmod:glowing_deep_sea_necklace",
+    "count": 1
+  }
+}

@@ -16,9 +16,9 @@ public enum ModArmorMaterials implements ArmorMaterial
     COPPER("copper", 12, new int[]{2, 4, 5, 2}, 9, SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F, () -> Ingredient.of(Items.COPPER_INGOT)),
     ALUMINUM("aluminum", 12, new int[]{2, 4, 5, 2}, 9, SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F, () -> Ingredient.of(ModItems.ALUMINUM_INGOT.get())),
     TIN("tin", 12, new int[]{2, 4, 5, 2}, 9, SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F, () -> Ingredient.of(ModItems.TIN_INGOT.get())),
-    RUBY("ruby", 35, new int[]{4, 6, 8, 4}, 15, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0F, 1.0F, () -> Ingredient.of(ModItems.RUBY.get())),
-    SAPPHIRE("sapphire", 35, new int[]{4, 6, 8, 4}, 15, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0F, 1.0F, () -> Ingredient.of(ModItems.SAPPHIRE.get())),
-    AMETHYST("amethyst", 40, new int[]{4, 7, 9, 4}, 20, SoundEvents.ARMOR_EQUIP_DIAMOND, 3.0F, 2.0F, () -> Ingredient.of(ModItems.AMETHYST.get()));
+    RUBY("ruby", 35, new int[]{4, 6, 8, 4}, 15, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0F, 0.1F, () -> Ingredient.of(ModItems.RUBY.get())),
+    SAPPHIRE("sapphire", 35, new int[]{4, 6, 8, 4}, 15, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0F, 0.1F, () -> Ingredient.of(ModItems.SAPPHIRE.get())),
+    AMETHYST("amethyst", 40, new int[]{4, 7, 9, 4}, 20, SoundEvents.ARMOR_EQUIP_DIAMOND, 3.0F, 0.2F, () -> Ingredient.of(ModItems.AMETHYST.get()));
 
     private static final int[] HEALTH_PER_SLOT = new int[]{13, 15, 16, 11};
     private final String name;

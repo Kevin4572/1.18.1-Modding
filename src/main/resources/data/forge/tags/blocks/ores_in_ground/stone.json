@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:aluminum_ore",
+    "bestmod:tin_ore",
+    "bestmod:ruby_ore",
+    "bestmod:sapphire_ore",
+    "bestmod:amethyst_ore"
+  ]
+}

@@ -10,7 +10,7 @@
       "item": "minecraft:stick"
     },
     "X": {
-      "item": "bestmod:sapphire"
+      "tag": "forge:gems/sapphrie"
     }
   },
   "result": {

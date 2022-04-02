@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bestmod:item/music_disc_if_i_had_a_chicken"
+  }
+}

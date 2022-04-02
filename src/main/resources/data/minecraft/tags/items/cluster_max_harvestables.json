@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:copper_pickaxe",
+    "bestmod:aluminum_pickaxe",
+    "bestmod:tin_pickaxe",
+    "bestmod:ruby_pickaxe",
+    "bestmod:sapphire_pickaxe",
+    "bestmod:amethyst_pickaxe"
+  ]
+}

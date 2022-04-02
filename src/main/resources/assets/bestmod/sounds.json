@@ -1,0 +1,29 @@
+{
+  "if_i_had_a_chicken": {
+    "subtitle": "sounds.bestmod.if_i_had_a_chicken",
+    "sounds": [
+      {
+        "name": "bestmod:if_i_had_a_chicken",
+        "stream": true
+      }
+    ]
+  },
+  "fluffing_a_duck": {
+    "subtitle": "sounds.bestmod.fluffing_a_duck",
+    "sounds": [
+      {
+        "name": "bestmod:fluffing_a_duck",
+        "stream": true
+      }
+    ]
+  },
+  "sneaky_snitch": {
+    "subtitle": "sounds.bestmod.sneaky_snitch",
+    "sounds": [
+      {
+        "name": "bestmod:sneaky_snitch",
+        "stream": true
+      }
+    ]
+  }
+}

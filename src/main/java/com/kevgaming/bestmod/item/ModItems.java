@@ -1,6 +1,9 @@
 package com.kevgaming.bestmod.item;
 
 import com.kevgaming.bestmod.BestMod;
+import com.kevgaming.bestmod.item.custom.FlyingStickItem;
+import com.kevgaming.bestmod.item.custom.NecklaceItem;
+import com.kevgaming.bestmod.sound.ModSounds;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -11,6 +14,13 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModItems
 {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, BestMod.MOD_ID);
+
+    public static final RegistryObject<Item> FLYING_STICK = ITEMS.register("flying_stick", () -> new FlyingStickItem(new Item.Properties().tab(ModCreativeModeTab.BEST_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> DEEP_SEA_NECKLACE = ITEMS.register("deep_sea_necklace", () -> new NecklaceItem(new Item.Properties().tab(ModCreativeModeTab.BEST_TAB).stacksTo(1), false));
+    public static final RegistryObject<Item> GLOWING_DEEP_SEA_NECKLACE = ITEMS.register("glowing_deep_sea_necklace", () -> new NecklaceItem(new Item.Properties().tab(ModCreativeModeTab.BEST_TAB).stacksTo(1), true));
+    public static final RegistryObject<Item> MUSIC_DISC_IF_I_HAD_A_CHICKEN = ITEMS.register("music_disc_if_i_had_a_chicken", () -> new RecordItem(5, ModSounds.IF_I_HAD_A_CHICKEN, new Item.Properties().tab(ModCreativeModeTab.BEST_TAB).stacksTo(1).rarity(Rarity.RARE)));
+    public static final RegistryObject<Item> MUSIC_DISC_FLUFFING_A_DUCK = ITEMS.register("music_disc_fluffing_a_duck", () -> new RecordItem(5, ModSounds.FLUFFING_A_DUCK, new Item.Properties().tab(ModCreativeModeTab.BEST_TAB).stacksTo(1).rarity(Rarity.RARE)));
+    public static final RegistryObject<Item> MUSIC_DISC_SNEAKY_SNITCH = ITEMS.register("music_disc_sneaky_snitch", () -> new RecordItem(5, ModSounds.SNEAKY_SNITCH, new Item.Properties().tab(ModCreativeModeTab.BEST_TAB).stacksTo(1).rarity(Rarity.RARE)));
 
     //Ingots/Gems
     public static final RegistryObject<Item> ALUMINUM_INGOT = ITEMS.register("aluminum_ingot", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BEST_TAB)));

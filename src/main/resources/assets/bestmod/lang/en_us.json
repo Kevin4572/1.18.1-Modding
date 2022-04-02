@@ -1,4 +1,15 @@
 {
+  "item.bestmod.flying_stick": "Flying Stick",
+  "item.bestmod.deep_sea_necklace": "Deep Sea Necklace",
+  "item.bestmod.glowing_deep_sea_necklace": "Glowing Deep Sea Necklace",
+
+  "item.bestmod.music_disc_if_i_had_a_chicken": "Music Disc",
+  "item.bestmod.music_disc_if_i_had_a_chicken.desc": "Kevin Macleod - If I Had a Chicken",
+  "item.bestmod.music_disc_fluffing_a_duck": "Music Disc",
+  "item.bestmod.music_disc_fluffing_a_duck.desc": "Kevin Macleod - Fluffing a Duck",
+  "item.bestmod.music_disc_sneaky_snitch": "Music Disc",
+  "item.bestmod.music_disc_sneaky_snitch.desc": "Kevin Macleod - Sneaky Snitch",
+
   "item.bestmod.aluminum_ingot": "Aluminum Ingot",
   "item.bestmod.tin_ingot": "Tin Ingot",
   "item.bestmod.ruby": "Ruby",
@@ -96,5 +107,14 @@
   "item.bestmod.amethyst_leggings": "Amethyst Leggings",
   "item.bestmod.amethyst_boots": "Amethyst Boots",
 
-  "itemGroup.besttab": "Best Mod"
+  "itemGroup.besttab": "Best Mod",
+
+  "tooltip.bestmod.flying_stick.tooltip.shift": "Right Click to toggle fly mode. §cWARNING§r: Toggling off fly mode while flying may kill you!",
+  "tooltip.bestmod.flying_stick.tooltip": "Press §eSHIFT§r for more Information.",
+  "tooltip.bestmod.deep_sea_necklace.tooltip.shift": "Wear it on the necklace slot and jump into water to become a mermaid!",
+  "tooltip.bestmod.deep_sea_necklace.tooltip": "Press §eSHIFT§r for more Information.",
+
+  "sounds.bestmod.if_i_had_a_chicken": "If I Had a Chicken",
+  "sounds.bestmod.fluffing_a_duck": "Fluffing a Duck",
+  "sounds.bestmod.sneaky_snitch": "Sneaky Snitch"
 }

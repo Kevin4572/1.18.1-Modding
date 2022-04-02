@@ -10,7 +10,7 @@
       "item": "minecraft:stick"
     },
     "X": {
-      "item": "bestmod:amethyst"
+      "tag": "forge:gems/amethyst"
     }
   },
   "result": {

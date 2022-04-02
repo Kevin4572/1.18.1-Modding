@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:aluminum_ore",
+    "bestmod:tin_ore",
+    "bestmod:deepslate_aluminum_ore",
+    "bestmod:deepslate_tin_ore"
+  ]
+}

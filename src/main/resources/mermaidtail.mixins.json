@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.kevgaming.bestmod.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "refmap": "mermaidtail.refmap.json",
+  "mixins": ["PlayerEntityMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

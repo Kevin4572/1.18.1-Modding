@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "xgx",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "s":
+    {
+      "item": "minecraft:diamond"
+    },
+    "g":
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result":
+  {
+    "item": "bestmod:glowing_deep_sea_necklace",
+    "count": 1
+  }
+}

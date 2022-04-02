@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bestmod:ruby_ore",
+    "bestmod:nether_ruby_ore",
+    "bestmod:deepslate_ruby_ore"
+  ]
+}
