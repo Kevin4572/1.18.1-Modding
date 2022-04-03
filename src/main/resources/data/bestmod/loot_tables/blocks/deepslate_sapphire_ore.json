@@ -25,7 +25,7 @@
                   }
                 }
               ],
-              "name": "bestmod:deepslate_sapphire_ore"
+              "name": "bestmod:deepslate_amethyst_ore"
             },
             {
               "type": "minecraft:item",
@@ -39,7 +39,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "bestmod:sapphire"
+              "name": "bestmod:amethyst"
             }
           ]
         }
